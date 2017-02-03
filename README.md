@@ -1,4 +1,3 @@
 # hello-world
-essai github
 
-je suis trop cool
+essai gith hub avec template, en 2 minutes.
